@@ -1,0 +1,42 @@
+*{
+   margin-top: 2px;
+   color:white;
+   /*background-color:rgb(43,39,65);*/
+   background-color: rgb(10, 25, 47);
+}
+
+h3{
+    color: rgb(100, 255, 218);
+    /*color: rgb(136, 146, 176);*/
+}
+
+.picture{
+   display: inline-flex;
+}
+
+
+.info{
+    margin-left: 20px;
+}
+
+u{
+    color: rgb(136, 146, 176);
+}
+
+.myDiv1{
+    padding: 10px;
+}
+
+.moreInfo{
+    display: inline-flex
+}
+
+.myDiv2{
+    padding: 10px;
+    width: 600px;
+}
+
+.myDiv3{
+    padding: 10px;
+    width: 600px;
+}
